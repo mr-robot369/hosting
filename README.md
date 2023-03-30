@@ -13,13 +13,13 @@ This repository gives you the code you'll need to know to host your website.
 
 - [Initialisation](#--initialisation)
 
-- [File Transfer](#--filetransfer) ([FileZilla](https://filezilla-project.org/))
+- [File Transfer](#--file-transfer-using-filezilla) ([FileZilla](https://filezilla-project.org/))
 
-- [Server Creation](#--servercreation)
+- [Server Creation](#--server-creation)
 
-- [Domain Creation](#--servercreation) ([Cloudflare](https://dash.cloudflare.com/3fbf28bc9ec4ec7e68b20cf20daf9f37))
+- [Domain Creation](#--domain-creation-using-cloudflare) ([Cloudflare](https://dash.cloudflare.com/3fbf28bc9ec4ec7e68b20cf20daf9f37))
 
-- [Established connection between Server and Client](#--establishedconnectionbetweenserverandclient) ([Apache2](https://httpd.apache.org/docs/))
+- [Established connection between Server and Client](#--established-connection-between-server-and-client-using-apache2) ([Apache2](https://httpd.apache.org/docs/))
 
 
 ## -> Initialisation
