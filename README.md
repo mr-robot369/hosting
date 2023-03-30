@@ -30,5 +30,5 @@ File Transfer (FileZilla)
 
  	 
     
-![code sample](https://github.com/mr-robot369/hosting/blob/main/code%20samples/image1.png?raw=true)
+![code sample](https://github.com/mr-robot369/hosting/tree/main/code%20samples/image1.png?raw=true)
 
