@@ -2,7 +2,7 @@
 # Get started hosting your personal website 
 
 This repository gives you the code you'll need to know to host your website.
-
+We will use [puTTy](https://www.putty.org/), [FileZilla](https://filezilla-project.org/), and [Apache](https://httpd.apache.org/docs/)
 
 ## Documentation
 
