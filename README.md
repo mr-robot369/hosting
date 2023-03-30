@@ -11,7 +11,7 @@ This repository gives you the code you'll need to know to host your website.
 
 ## Contents
 
-- Initialisation
+- [🔗](#Installation) Initialisation
 
 - File Transfer (FileZilla)
 
